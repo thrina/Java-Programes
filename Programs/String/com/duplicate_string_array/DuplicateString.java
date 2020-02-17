@@ -1,6 +1,6 @@
 package com.duplicate_string_array;
 
- 
+ //
 public class DuplicateString
 {
   public static void main(String[] args) {
